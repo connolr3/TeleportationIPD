@@ -1,10 +1,20 @@
 body {
     font-family: 'Noto Sans', sans-serif;
+    background-color: #f3fff3;
 }
 
 .footer .icon-link {
     font-size: 25px;
-    color: #000;
+    color: #f0f0f0;
+}
+
+.footer {
+    background-color: #033012;
+    color: #f3fff3;
+}
+
+.footer a {
+    color: aquamarine;
 }
 
 .link-block a {
