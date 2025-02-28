@@ -13,6 +13,11 @@ body {
     color: #f3fff3;
 }
 
+.publication-text {
+    margin-top: 1.5em;
+    font-size: 23px;
+}
+
 .footer a {
     color: aquamarine;
 }
